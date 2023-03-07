@@ -1,0 +1,12 @@
+[/]
+audible-bell=true
+background-color='rgb(38,41,34)'
+custom-command=''
+font='Monospace 13'
+foreground-color='rgb(228,233,219)'
+login-shell=false
+palette=['rgb(38,41,34)', 'rgb(255,0,109)', 'rgb(129,247,57)', 'rgb(219,221,114)', 'rgb(82,139,255)', 'rgb(198,120,221)', 'rgb(0,222,240)', 'rgb(215,218,224)', 'rgb(127,132,142)', 'rgb(255,0,109)', 'rgb(129,247,57)', 'rgb(219,221,114)', 'rgb(82,139,255)', 'rgb(198,120,221)', 'rgb(0,222,240)', 'rgb(215,218,224)']
+use-custom-command=false
+use-system-font=true
+use-theme-colors=false
+visible-name='Monokai Everywhere by Henrique Sebastião'
