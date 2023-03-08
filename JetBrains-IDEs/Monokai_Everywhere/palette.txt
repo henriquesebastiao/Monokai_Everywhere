@@ -1,0 +1,11 @@
+Python:
+    Anotações: #00ddef
+    Builtin Name: #78e735 (Itálico)
+    Definição de classe: #00ddef
+    Decorador: #78e735
+    Doc Comment Tag: #00def0
+    PY.FSTRING_FRAGMENT_BRACES: #ff9010
+    Chamada de Função: #78e735
+    Keyword: #00def0 (Itálico)
+    Keyword Argument: #ff9010 (Itálico)
+    Números: c249fe
